@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f36ba615-b9c4-487f-8366-1988f21d1916",
+  "id_short": 190743,
+  "published_at": "2026-04-10T19:29:49Z",
+  "repo_name": "restaurant-verified-email-access-in-kansas-city-missouri-us-sample-190743",
+  "sample_asset_name": "beamstation_190743_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/190743/beamstation_190743_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "3664d8237e3abd18bdd5d44f970ea767c84366d9e226a118199b2b1ee7809161",
+  "sample_size_bytes": 149714,
+  "total_records": 334
+}
