@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Kansas City, Missouri, US
 
-> Free BeamStation sample export with 31 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `190743` |
 | Location | Kansas City |
 | Category | Restaurants |
-| Full dataset size | 316 records |
-| Free sample size | 31 records (9.81%) |
-| Last export | 2026-04-15T05:04:18.470664+00:00 |
+| Full dataset size | 240 records |
+| Free sample size | 24 records (10.0%) |
+| Last export | 2026-04-22T10:41:33.593846+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-kansas-city-missouri-us-sample-190743/releases/download/sample-latest/beamstation_190743_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
